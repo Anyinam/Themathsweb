@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://themathsliberator.onrender.com/sitemap.xml
